@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Movie Recommender</title>
+</head>
+<body>
+
+            <h1>Trending Movies</h1>
+
+{% for movie in Movies_popularity %}
+<p>{{ movie }} </p>
+{% endfor %}
+
+
+
+             <h1>To Picks Movies</h1>
+
+{% for movie in top_picks %}
+<p>{{ movie }} </p>
+{% endfor %}
+
+
+
+</body>
+</html>
