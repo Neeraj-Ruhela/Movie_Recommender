@@ -14,7 +14,8 @@ Movie Title, Original Movie Language, Overview, Popularity measure, Tagline, Ave
 
 This Recommender can also predict the rating for movies which the user has not watched(Based on SVD). 
 
-Recomemnder highlights:
+## Recomemnder highlights:
+
  (1) - Demographic based recommendations
  (2) - Content-based recommendations
  (3) - Collaborative Recommendations
