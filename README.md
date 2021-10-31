@@ -23,4 +23,4 @@ This Recommender can also predict the rating for movies which the user has not w
 ### Sample data files are attched with 500 entries.
 
 
-                                          ## The jupyter notebook has Flask implementation of Recommender System.
+##                                             The jupyter notebook has Flask implementation of Recommender System.
