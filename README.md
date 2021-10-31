@@ -8,7 +8,8 @@ Growing emphasis on improving consumer experience and increasing trend of digita
 
 Our recommendation engnine suggest Trending movies, Top picket Movies. It can also suggests movies based on MOVIES CONTENT and USER PREFERENCES.
 
-This recommender is using below mentioned movie features to recommend personalized suggestions.
+#### This recommender is using below mentioned movie features to recommend personalized suggestions.
+
 Movie Title, Original Movie Language, Overview, Popularity measure, Tagline, Average Rating, Vote Count, Cast(Actors), Crew('Director', 'Producer', 'Director of Photography',
 'Original Music Composer','Visual Effects Producer') And Movie Genre. 
 
