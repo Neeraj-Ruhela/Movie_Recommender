@@ -19,5 +19,8 @@ This Recommender can also predict the rating for movies which the user has not w
  (1) - Demographic based recommendations
  (2) - Content-based recommendations
  (3) - Collaborative Recommendations
+ 
+### Sample data files are attched with 500 entries.
 
-## The jupyter notebook has Flask implementation of Recommender System.
+
+                                          ## The jupyter notebook has Flask implementation of Recommender System.
