@@ -6,7 +6,7 @@ These include the product recommendation engine, the content recommendation engi
 Recommendation Engine Market size is projected to reach $12.03 billion by 2025 from $ 1.14 billion in 2018, with a CAGR of 32.39% during 2020-2025.
 Growing emphasis on improving consumer experience and increasing trend of digitalization are some of the main driving factors for the demand of recommendation engines.
 
-Our recommendation engnine suggest Trending movies, Top picket Movies. It can also suggests movies based on MOVIES CONTENT and USER PREFERENCES.
+Our recommendation engnine suggest Trending movies, Top picked Movies. It can also suggests movies based on MOVIES CONTENT and USER PREFERENCES.
 
 #### This recommender is using below mentioned movie features to recommend personalized suggestions.
 
