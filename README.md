@@ -13,7 +13,7 @@ Our recommendation engnine suggest Trending movies, Top picket Movies. It can al
 Movie Title, Original Movie Language, Overview, Popularity measure, Tagline, Average Rating, Vote Count, Cast(Actors), Crew('Director', 'Producer', 'Director of Photography',
 'Original Music Composer','Visual Effects Producer') And Movie Genre. 
 
-This Recommender can also predict the rating for movies which the user has not watched(Based on SVD). 
+This Recommender can also predict the rating for movies which the user has not watched. 
 
 ## Recomemnder highlights:
 
